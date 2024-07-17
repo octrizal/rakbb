@@ -1,0 +1,144 @@
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC LIMIT 0, 25
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>60</b><br />
+
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC LIMIT 0, 25
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>60</b><br />
+
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC LIMIT 0, 25
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>63</b><br />
+
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC LIMIT 0, 25
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>63</b><br />
+
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC LIMIT 0, 25
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>63</b><br />
+
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC LIMIT 0, 25
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>63</b><br />
+
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC LIMIT 0, 25
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>63</b><br />
+
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC LIMIT 0, 25
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>63</b><br />
+
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC LIMIT 0, 25
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>63</b><br />
+
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC LIMIT 0, 25
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>63</b><br />
+
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC LIMIT 0, 25
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>63</b><br />
+
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC LIMIT 0, 25
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>60</b><br />
+
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC 
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>60</b><br />
+
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC 
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>60</b><br />
+
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC 
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>60</b><br />
+
+
+SELECT lb.*, r.nama as rak_nama, rs.nama as sub_rak_nama
+FROM lokasi_barang lb 
+JOIN rak r ON lb.id_rak = r.id_rak 
+LEFT JOIN rak_sub rs ON lb.id_lokasi = rs.id_rak_sub
+WHERE (lb.id_rak LIKE "%%" OR lb.id_lokasi LIKE "%%" OR lb.product LIKE "%%" OR lb.lot LIKE "%%" OR lb.no_bpb LIKE "%%" OR lb.no_po LIKE "%%" OR lb.kategori LIKE "%%" OR r.nama LIKE "%%" OR rs.nama LIKE "%%")ORDER BY lb.id_rak DESC 
+Buffered output: <br />
+<b>Notice</b>:  Undefined index: lokasi_cetak in <b>C:\xampp\htdocs\rakinventori\cetak_barang_fetch.php</b> on line <b>60</b><br />
+

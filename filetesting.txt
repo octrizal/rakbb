@@ -1,0 +1,11 @@
+$2y$10$7SqijqS90YihFpM8/EvNnO9uWk7JB7/pD6eIaRLsDGESgLEyV.S6u
+
+
+catatan
+user :
+
+mastergudang@icw.com -> master
+idajulianti@icw.com -> po
+admin@icw.com -> user
+
+pass:icwsmg
